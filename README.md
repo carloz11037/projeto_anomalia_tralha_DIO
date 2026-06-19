@@ -1,4 +1,4 @@
-📌 README.md (PRONTO)
+📌 README.md
 # 🚨 Detecção de Anomalias em Transações Financeiras
 
 ## 📊 Sobre o projeto
